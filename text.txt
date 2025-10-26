@@ -1,1 +1,2 @@
-This ispractice fileof git 
+This is practice file of git 
+text file is updated from github
